@@ -1,6 +1,5 @@
-# set-secure-cookie
-
-This exapmle enables `Secure` attribute of set-cookie which doesn't have the attribute from Origin server
+## Description
+This example enables `Secure` attribute of set-cookie which doesn't have the attribute from Origin server.
 
 ## Usage Example
     // Response from Origin Server
