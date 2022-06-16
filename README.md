@@ -1,1 +1,1 @@
-# akamai-edgeworkers-sample
+# Akamai EdgeWorkers Sample
