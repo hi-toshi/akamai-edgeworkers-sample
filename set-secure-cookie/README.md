@@ -1,5 +1,5 @@
 ## Description
-This example enables `Secure` attribute of set-cookie which doesn't have the attribute from Origin server.
+This example enables `Secure` attribute of set-cookie headers which doesn't have the attribute from Origin server. For set-cookie response headers which don't have `Secure` attribute, the attribute is added at Edge. For headers which already have `Secure` attribute, the headers are just passed at Edge.
 
 ## Usage Example
     // Response from Origin Server
