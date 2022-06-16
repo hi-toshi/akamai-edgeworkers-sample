@@ -1,3 +1,3 @@
 # set-secure-cookie
 
-This exapmle enable `Secure` attribute of cookie.
+This exapmle enables `Secure` attribute of cookie.
